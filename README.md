@@ -5,7 +5,9 @@ A BeerAdvocate Bokeh-App project has been developed for the use of BeerAdvocate 
 See the BeerAdvocate Website for more information on the website.
 
 ![Alt text](bokeh_app/pictures/beer_performance.png "Beer Performance")
-![Alt text](bokeh_app/pictures/map_of_uk_beer places.png "Map of Beer Places in Uk")
+
+![Alt text](bokeh_app/pictures/map_of_uk_beer_places.png "Map of Beer Places in Uk")
+
 ![Alt text](bokeh_app/pictures/distribution_of_attention.png?raw=true "Distribution of Attention Across Beer Genres")
 ![Alt text](bokeh_app/pictures/table_summary.png?raw=true "Summary Table")
 
