@@ -4,10 +4,10 @@ A BeerAdvocate Bokeh-App project has been developed for the use of BeerAdvocate 
 
 See the BeerAdvocate Website for more information on the website.
 
-![Alt text](bokeh-app/pictures/beer_performance.png?raw=true "Beer Performance")
-![Alt text](bokeh-app/pictures/map_of_uk_beer_places.png?raw=true "Map of Beer Places in Uk")
-![Alt text](bokeh-app/pictures/distribution_of_attention.png?raw=true "Distribution of Attention Across Beer Genres")
-![Alt text](bokeh-app/pictures/table_summary.png?raw=true "Summary Table")
+![Alt text](bokeh_app/pictures/beer_performance.png "Beer Performance")
+![Alt text](bokeh_app/pictures/map_of_uk_beer_places.png?raw=true "Map of Beer Places in Uk")
+![Alt text](bokeh_app/pictures/distribution_of_attention.png?raw=true "Distribution of Attention Across Beer Genres")
+![Alt text](bokeh_app/pictures/table_summary.png?raw=true "Summary Table")
 
 
 You will need to add in your own Google API Key to use the map functionality in gmap_map.py under bokeh-app/scripts
